@@ -2,15 +2,13 @@
 
 A new Flutter project.
 
-## Getting Started
+## Goal
 
-This project is a starting point for a Flutter application.
+ The objective of this tutorial is to look at how i customise Flutter Widgets to achieve my own beautiful user interface designs.
 
-A few resources to get you started if this is your first Flutter project:
+## What I Will Create
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+ I’m going to make a Body Mass Index Calculator. It will be a multi screen app with simple functionality but full-on custom styling.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+https://raw.githubusercontent.com/londonappbrewery/Images/master/bmi-calc-demo.gif
